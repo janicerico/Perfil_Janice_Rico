@@ -1,6 +1,6 @@
 Hola!!! Soy Janice Rico.
 
-- Ingeniero de Sistemas, actualmente finalizando la Carrera de Data Science en el Bootcamp de Full Time de Henry.
+- Ingeniero de Sistemas y Científica de Datos Jr.
 
 - Poseo conocimientos y habilidades en el área de Data, dominando herramientas como Python, con Numpy, Pandas, Matplotlib, FastAppi, Streamlit, así como SQL, y Power BI.
 
